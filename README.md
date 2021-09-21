@@ -18,10 +18,6 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
-![alt text](https://github.com/FerMarSol/stats-preview-card-component-main/blob/main/images/Screenshot.png)
-
 ![alt text](https://github.com/FerMarSol/order-summary-component-main/blob/ff775ba2c04188132cb29d67244b83a90c9c7fbc/images/Screenshot.PNG)
 
 ### Links
